@@ -18,7 +18,7 @@ const BOT_TOKEN = "8733908330:AAEJ-a-IgNiPUYU3hBIo9dTptvtrVsc4mRQ"; // Ganti den
 const ROLE_FILE = "roles.json";
 const GITHUB_REPO = "ISI REPO LU/ISI NAMA RAW GITHUB LU"; //isi repo github dengan RAW
 const GITHUB_FILE_PATH = "token.json"; //path json diluar
-const GITHUB_PAT = "TOKEN_GHP_LU"; //token GHP
+const GITHUB_PAT = "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"; //token GHP
 
 const GITHUB_RAW_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/${GITHUB_FILE_PATH}?timestamp=${Date.now()}`;
 const GITHUB_API_URL = `https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FILE_PATH}`;
